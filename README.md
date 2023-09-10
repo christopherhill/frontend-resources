@@ -12,3 +12,7 @@ https://leaddev.com/process/managing-chaos-context-switching
 
 Code organization by feature (not type):
 https://softwareengineering.stackexchange.com/questions/338597/folder-by-type-or-folder-by-feature
+
+Don't call a React function component:
+https://kentcdodds.com/blog/dont-call-a-react-function-component
+
