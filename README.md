@@ -10,3 +10,5 @@ https://addyosmani.com/blog/boring-architecture/
 Managing the chaos of context switching:
 https://leaddev.com/process/managing-chaos-context-switching
 
+Code organization by feature (not type):
+https://softwareengineering.stackexchange.com/questions/338597/folder-by-type-or-folder-by-feature
