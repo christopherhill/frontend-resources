@@ -1,17 +1,23 @@
 # UI Engineering Resources
 A collection of UI and general engineering articles and development tenets
 
+## General
+
 Dealing with career growth in a downturn:
 https://theengineeringmanager.substack.com/p/growth-in-a-downturn
-
-Stick to boring architecture for as long as possible:
-https://addyosmani.com/blog/boring-architecture/
 
 Managing the chaos of context switching:
 https://leaddev.com/process/managing-chaos-context-switching
 
+## Architectural Principles
+
+Stick to boring architecture for as long as possible:
+https://addyosmani.com/blog/boring-architecture/
+
 Code organization by feature (not type):
 https://softwareengineering.stackexchange.com/questions/338597/folder-by-type-or-folder-by-feature
+
+## React
 
 Don't call a React function component:
 https://kentcdodds.com/blog/dont-call-a-react-function-component
