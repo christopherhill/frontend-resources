@@ -32,6 +32,11 @@ https://react.dev/learn/you-might-not-need-an-effect
 Awesome React Components:
 https://github.com/brillout/awesome-react-components
 
+## REST API
+
+Microsoft REST API guidelines:
+https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md
+
 ## Accessibility
 
 Ebay Mind Patterns:
