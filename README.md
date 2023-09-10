@@ -17,8 +17,14 @@ https://addyosmani.com/blog/boring-architecture/
 Code organization by feature (not type):
 https://softwareengineering.stackexchange.com/questions/338597/folder-by-type-or-folder-by-feature
 
+The boring technology club:
+https://boringtechnology.club/
+
 ## React
 
 Don't call a React function component:
 https://kentcdodds.com/blog/dont-call-a-react-function-component
 (further discussion here: https://github.com/jsx-eslint/eslint-plugin-react/issues/3208)
+
+You might not need an effect:
+https://react.dev/learn/you-might-not-need-an-effect
