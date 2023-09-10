@@ -21,4 +21,4 @@ https://softwareengineering.stackexchange.com/questions/338597/folder-by-type-or
 
 Don't call a React function component:
 https://kentcdodds.com/blog/dont-call-a-react-function-component
-
+(further discussion here: https://github.com/jsx-eslint/eslint-plugin-react/issues/3208)
