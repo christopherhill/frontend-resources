@@ -1,5 +1,5 @@
 # UI Engineering Resources
-A collection of UI engineering articles and development tenets
+A collection of UI and general engineering articles and development tenets
 
 Dealing with career growth in a downturn:
 https://theengineeringmanager.substack.com/p/growth-in-a-downturn
