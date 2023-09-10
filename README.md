@@ -9,6 +9,9 @@ https://theengineeringmanager.substack.com/p/growth-in-a-downturn
 Managing the chaos of context switching:
 https://leaddev.com/process/managing-chaos-context-switching
 
+Maker Schedule, Manager Schedule:
+http://www.paulgraham.com/makersschedule.html
+
 ## Architectural Principles
 
 Stick to boring architecture for as long as possible:
@@ -47,3 +50,8 @@ https://www.webaxe.org/
 
 Dequeue University Library (great resource of WCAG a11y compliant widget representations):
 https://dequeuniversity.com/library/
+
+## Process
+
+Agile Manifesto Principles:
+[https://agilemanifesto.org/](https://agilemanifesto.org/iso/en/principles.html)https://agilemanifesto.org/iso/en/principles.html
