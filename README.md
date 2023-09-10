@@ -38,6 +38,9 @@ https://react.dev/learn/you-might-not-need-an-effect
 Awesome React Components:
 https://github.com/brillout/awesome-react-components
 
+Typescript Cheat-Sheets w/ React:
+https://github.com/typescript-cheatsheets/react
+
 ## REST API's
 
 Microsoft REST API guidelines:
@@ -53,6 +56,11 @@ https://www.webaxe.org/
 
 Dequeue University Library (great resource of WCAG a11y compliant widget representations):
 https://dequeuniversity.com/library/
+
+## 3rd Party tools
+
+Lodash Playground:
+https://playcode.io/lodash
 
 ## Process
 
