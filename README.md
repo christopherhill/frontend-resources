@@ -31,3 +31,9 @@ https://react.dev/learn/you-might-not-need-an-effect
 
 Awesome React Components:
 https://github.com/brillout/awesome-react-components
+
+## Accessibility
+
+Ebay Mind Patterns:
+https://opensource.ebay.com/mindpatterns/
+
