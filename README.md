@@ -42,3 +42,8 @@ https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md
 Ebay Mind Patterns:
 https://opensource.ebay.com/mindpatterns/
 
+Web Axe:
+https://www.webaxe.org/
+
+Dequeue University Library (great resource of WCAG a11y compliant widget representations):
+https://dequeuniversity.com/library/
