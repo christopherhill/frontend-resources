@@ -12,6 +12,9 @@ https://leaddev.com/process/managing-chaos-context-switching
 Maker Schedule, Manager Schedule:
 http://www.paulgraham.com/makersschedule.html
 
+Mythical Man-Month:
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month
+
 ## Architectural Principles
 
 Stick to boring architecture for as long as possible:
