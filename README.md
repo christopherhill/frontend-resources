@@ -29,6 +29,11 @@ https://softwareengineering.stackexchange.com/questions/338597/folder-by-type-or
 The boring technology club:
 https://boringtechnology.club/
 
+## Environments
+
+QA/Dev Environments same as Production:
+https://softwareengineering.stackexchange.com/questions/162715/arguments-for-development-environment-being-the-same-as-production
+
 ## React
 
 Don't call a React function component:
