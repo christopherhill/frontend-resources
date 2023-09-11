@@ -15,6 +15,9 @@ http://www.paulgraham.com/makersschedule.html
 Mythical Man-Month:
 https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 
+Senior Engineers Checklist:
+https://littleblah.com/post/2019-09-01-senior-engineer-checklist/
+
 ## Architectural Principles
 
 Stick to boring architecture for as long as possible:
